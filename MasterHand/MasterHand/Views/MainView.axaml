@@ -12,5 +12,5 @@
     <vm:MainViewModel />
   </Design.DataContext>
 
-  <TextBlock Text="{Binding Greeting}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+  <Button Click="Button_OnClick">Click Me!</Button>
 </UserControl>
